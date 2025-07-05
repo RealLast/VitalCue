@@ -1,7 +1,7 @@
 # VitalCue
 
 <div align="center">
-  <img src="assets/vital_cueue_logo.png" alt="WearableGemma Logo" height="120">
+  <img src="assets/vitalcue_logo.jpeg" alt="VitalCue Logo" height="120">
 </div>
 
 ## Overview - WearableGemma
