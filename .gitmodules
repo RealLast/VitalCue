@@ -1,0 +1,4 @@
+[submodule "EmbedHealth"]
+	path = EmbedHealth
+	url = https://github.com/StanfordBDHG/EmbedHealth.git
+	branch = RealLast/CurriculumRestructuring
